@@ -1,0 +1,28 @@
+# RPG Maker MV Ignored Files
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore RPG Maker MV runtime files
+node_modules/
+package-lock.json
+
+# Ignore RPG Maker's compiled game output
+www/
+save/
+backup/
+
+# Ignore RPG Maker's generated cache and logs
+debug.log
+error.log
+
+# Ignore RPG Maker backup files
+*.rpgproject~
+*.rpgproject.lock
+*.bak
+*.tmp
+
+# Ignore RPG Maker's unnecessary system files
+config.rpgsave
+global.rpgsave
