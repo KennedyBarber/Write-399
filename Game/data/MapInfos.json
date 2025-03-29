@@ -1,3 +1,5 @@
 [
-null
+null,
+{"id":1,"expanded":false,"name":"Bar","order":1,"parentId":0,"scrollX":537.5,"scrollY":456.5},
+{"id":2,"expanded":false,"name":"House","order":2,"parentId":0,"scrollX":537.5,"scrollY":456.5}
 ]
