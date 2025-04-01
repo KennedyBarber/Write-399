@@ -7,6 +7,7 @@ Thumbs.db
 # Ignore RPG Maker MV runtime files
 node_modules/
 package-lock.json
+System.json
 
 # Ignore RPG Maker's compiled game output
 www/
