@@ -7,12 +7,16 @@ Thumbs.db
 # Ignore RPG Maker MV runtime files
 node_modules/
 package-lock.json
-System.json
 
 # Ignore RPG Maker's compiled game output
 www/
 save/
 backup/
+
+# Ignore maps, but allow tracking new ones when needed
+Game/data/Map[0-9][0-9][0-9].json
+!Game/data/Map001.json
+!Game/data/Map002.json
 
 # Ignore RPG Maker's generated cache and logs
 debug.log
