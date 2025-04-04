@@ -14,7 +14,6 @@ save/
 backup/
 
 # Ignore maps, but allow tracking new ones when needed
-Game/data/Map[0-9][0-9][0-9].json
 !Game/data/Map001.json
 !Game/data/Map002.json
 
