@@ -17,6 +17,9 @@ backup/
 Game/data/Map[0-9][0-9][0-9].json
 !Game/data/Map001.json
 !Game/data/Map002.json
+!Game/data/Map003.json
+!Game/data/Map004.json
+!Game/data/Map005.json
 
 # Ignore RPG Maker's generated cache and logs
 debug.log
